@@ -8,6 +8,7 @@ You can run the launcher.bat or main.py to start the program.
 
 ### Controls
 
-Fast Forward: Enter
 ```
+Fast Forward: Enter
 Save Weights: Space
+```
