@@ -1,0 +1,18 @@
+{
+	"height" : 720,
+	"width" : 1280,
+	"creature_vision_range" : 10,
+	"bullet_vision_range" : 20,
+	"rotation_speed" : 10,
+	"population_size" : 22,
+	"best_few" : 15,
+	"lucky_few" : 5,
+	"child_size" :  2,
+	"creature_speed" : 8,
+	"bullet_speed" : 40,
+	"creature_radius" : 25,
+	"bullet_radius" : 5,
+	"mutationChance" : 5,
+	"fast_forward_frames" : 605,
+	"names" : ["Gintoki", "Shinpachi", "Kagura", "Sadaharu", "Okita", "Hijikata", "Katsura", "Kondou", "Takasugi", "Hattori", "Kamui"]
+}
